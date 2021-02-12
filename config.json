@@ -1,6 +1,6 @@
 {
 	"data": {
-		"filename": "M&M.NS.csv",
+		"filename": "sp500.csv",
 		"columns": [
 			"Close",
 			"Volume"
